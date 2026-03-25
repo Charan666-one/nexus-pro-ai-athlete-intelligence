@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Pro",
+  "description": "AI Anti-Doping & Early Risk Detection System for sports authorities and medical professionals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
